@@ -1,0 +1,4 @@
+dnspython
+geopy
+Pillow
+shodan
